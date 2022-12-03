@@ -1,5 +1,6 @@
-#include <iostream>
+#include "lib.cpp"
+using namespace std;
 
-int main(){
-  return 0;
+int main () {
+    EvaluatePrimeNumbers();
 }
